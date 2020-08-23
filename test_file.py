@@ -2,4 +2,4 @@ import re
 
 
 
-print("AAAAAAAAAAA :))))")
+print("AAAAAAA :))))")
